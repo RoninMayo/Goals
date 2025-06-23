@@ -9,7 +9,7 @@ devices = [
  {'ip': '192.168.1.30', 
 		'device_type': 'cisco_ios',
 		'username': 'admin',
-		'password': 'sd$%1321'},
+		'password': 'automate'},
 	   
 #  {'ip': '192.168.2.1', 
 # 		'device_type': 'cisco_ios',
